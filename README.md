@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Uzin's%20GitHub%20stats&fontSize=50)
 ### Hi there 👋
-![npm bundle size](https://img.shields.io/bundlephobia/:format/:react)
+![Static Badge](https://img.shields.io/badge/:react)
 
 <!--
 **uUZINN/uUZINN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
