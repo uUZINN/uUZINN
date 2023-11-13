@@ -24,10 +24,17 @@
 ### 🔭 REACT
 - Fashion Youtube [미리보기](https://react-youtube2023-uzin.netlify.app/) [코드보기](https://github.com/uUZINN/react-youtube)
 - Simple Site [미리보기](https://react-webpage11.netlify.app/) [코드보기](https://github.com/uUZINN/react-webpage)
+- Portfolio Site [미리보기](https://react-project2023-uzin.web.app/) [코드보기](https://github.com/uUZINN/react-project2023)
 
-### 🌱 I’m currently learning ...
-### 👯 I’m looking to collaborate on ...
-### 🤔 I’m looking for help with ...
+### 🌱 Vue
+- Portfolio Site [미리보기](vue-project2023.vercel.app) [코드보기](https://github.com/uUZINN/vue-project2023)
+
+### 👯 VITE
+- Portfolio Site [미리보기](vite-project2023-uzin.netlify.app/) [코드보기](https://github.com/uUZINN/vite-project2023)
+
+### 🤔 Next.js
+- Portfolio Site [미리보기](next-project2023.vercel.app) [코드보기](https://github.com/uUZINN/next-project2023)
+  
 ### 💬 Ask me about ...
 ### 📫 How to reach me: ...
 ### 😄 Pronouns: ...
