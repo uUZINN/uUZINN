@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Uzin's%20GitHub%20stats&fontSize=50)
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=uUZINN)](https://solved.ac/uUZINN)<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uUZINN&show_icons=true&theme=radical)
 
 <!--
 **uUZINN/uUZINN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
