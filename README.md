@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&height=200&text=UZIN'stats!&fontAlign=50&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=uUZINN)](https://solved.ac/uUZINN)<br/>
