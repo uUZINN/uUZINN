@@ -41,9 +41,8 @@
 ## 💬 Team Project
 1. QUIZ project <br>
   javascript를 활용하여 퀴즈게임을 만들었습니다.<br>
-  [view]() [code]()
-<br>
-3. BLOG project <br>
+  [view]() [code]()<br>
+2. BLOG project <br>
   PHP를 활용하여 블로그 사이트를 만들었습니다.<br>
   [view]() [code]()
 
