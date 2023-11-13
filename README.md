@@ -46,6 +46,8 @@
   PHP를 활용하여 블로그 사이트를 만들었습니다.<br>
   [view]() [code]()
 
-## 📫 How to reach me: ...
+## 📫 STUDY
+webs2024 [view]() [code]()<br><br>
+
 ## 😄 Pronouns: ...
 ## ⚡ Fun fact: ...
