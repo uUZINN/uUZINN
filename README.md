@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=uUZINN's GitHub stats!&fontAlign=80&fontAlignY=40&color=gradient)
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=uUZINN)](https://solved.ac/uUZINN)<br/>
