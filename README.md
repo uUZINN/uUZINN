@@ -21,7 +21,7 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </div>
 
-### 🔭 REACT
+## 🔭 REACT
 - Fashion Youtube
   [view](https://react-youtube2023-uzin.netlify.app/) [code](https://github.com/uUZINN/react-youtube)
 - Simple Site
@@ -29,13 +29,13 @@
 - Portfolio Site
   [view](https://react-project2023-uzin.web.app/) [code](https://github.com/uUZINN/react-project2023)
 
-### 🌱 Vue
+## 🌱 Vue
 - Portfolio Site [view](vue-project2023.vercel.app) [code](https://github.com/uUZINN/vue-project2023)
 
-### 👯 VITE
+## 👯 VITE
 - Portfolio Site [view](vite-project2023-uzin.netlify.app/) [code](https://github.com/uUZINN/vite-project2023)
 
-### 🤔 Next.js 
+## 🤔 Next.js 
 - Portfolio Site [view](next-project2023.vercel.app) [code](https://github.com/uUZINN/next-project2023)
   
 ### 💬 Ask me about ...
