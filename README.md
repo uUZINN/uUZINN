@@ -22,7 +22,9 @@
 </div>
 
 ## 🔭 REACT
-- Fashion Youtube
+- Fashion Youtube (연습)
+  [view](https://react-youtube2023-uzin.netlify.app/) [code](https://github.com/uUZINN/react-youtube)
+- Fashion Youtube (완성)
   [view](https://react-youtube2023-uzin.netlify.app/) [code](https://github.com/uUZINN/react-youtube)
 - Simple Site
   [view](https://react-webpage11.netlify.app/) [code](https://github.com/uUZINN/react-webpage)
