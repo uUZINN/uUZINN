@@ -50,7 +50,7 @@ U-zin's portfolio [view](https://uzin-portfolio.kro.kr/) [code](https://github.c
   [view](https://uuzinn.github.io/dating-quizSite/) [code](https://github.com/uUZINN/dating-quizSite)<br><br>
 2. BLOG project <br>
   PHP를 활용하여 블로그 사이트를 만들었습니다.<br>
-  [view](http://dbwls8751.dothome.co.kr/blog_php/main/main.php) [code](https://github.com/uUZINN/gogyobok-blogSite)
+  [view](http://dbwls8751.dothome.co.kr/blog_php/main/main.php) [code](https://github.com/uUZINN/gogyobok-blogSite)<br><br>
 3. Add Plus <br>
   React를 활용하여 정보 제공 포털 사이트를 제작중입니다.<br>
   [view]() [code](https://github.com/uUZINN/ADDPLUS)
