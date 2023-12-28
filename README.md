@@ -21,18 +21,22 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </div>
 
+## 😄 My Portfolio
+U-zin's portfolio [view](https://uzin-portfolio.kro.kr/) [code](https://github.com/uUZINN/uzin-portfolio03)
+
 ## 🔭 REACT
-- Fashion Youtube (연습)
-  [view](https://react-youtube2023-uzin.netlify.app/) [code](https://github.com/uUZINN/react-youtube)
-- Fashion Youtube (완성)
+- Fashion Youtube
   [view](https://react-youtube2023-uzin.netlify.app/) [code](https://github.com/uUZINN/youtube-project)
 - Simple Site
   [view](https://react-webpage11.netlify.app/) [code](https://github.com/uUZINN/react-webpage)
 - Portfolio Site
   [view](https://react-project2023-uzin.web.app/) [code](https://github.com/uUZINN/react-project2023)
+- Simple Blog Site
+  [view](https://react-blog-test-d64c95561039.herokuapp.com/) [code](https://github.com/uUZINN/react-blog-test)
 
 ## 🌱 Vue
 - Portfolio Site [view](vue-project2023.vercel.app) [code](https://github.com/uUZINN/vue-project2023)
+- Movideo [view]() [code](https://github.com/uUZINN/movie-project)
 
 ## 👯 VITE
 - Portfolio Site [view](vite-project2023-uzin.netlify.app/) [code](https://github.com/uUZINN/vite-project2023)
@@ -43,13 +47,18 @@
 ## 💬 Team Project
 1. QUIZ project <br>
   javascript를 활용하여 퀴즈게임을 만들었습니다.<br>
-  [view]() [code]()<br><br>
+  [view](https://uuzinn.github.io/dating-quizSite/) [code](https://github.com/uUZINN/dating-quizSite)<br><br>
 2. BLOG project <br>
   PHP를 활용하여 블로그 사이트를 만들었습니다.<br>
-  [view]() [code]()
+  [view](http://dbwls8751.dothome.co.kr/blog_php/main/main.php) [code](https://github.com/uUZINN/gogyobok-blogSite)
+3. Add Plus <br>
+  React를 활용하여 정보 제공 포털 사이트를 제작중입니다.<br>
+  [view]() [code](https://github.com/uUZINN/ADDPLUS)
+
+
 
 ## 📫 STUDY
-webs2024 [view]() [code]()<br><br>
+webs2024 [view](https://uuzinn.github.io/webs2024/) [code](https://github.com/uUZINN/webs2024)<br><br>
 
-## 😄 Pronouns: ...
+
 ## ⚡ Fun fact: ...
